@@ -2,7 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Japheth Kiplang'at Mursi
+### Machine learning & NLP researcher
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
