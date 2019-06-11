@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br>NLP researcher<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br> Machine learning<br>
+  <a href="https://www.linkedin.com/in/cpa-japheth-mursi-75ba3032/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
